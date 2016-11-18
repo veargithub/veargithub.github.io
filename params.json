@@ -1,0 +1,6 @@
+{
+  "name": "如何在github上创建blog",
+  "tagline": "如何在github上创建blog",
+  "body": "在github上新建项目后，进入该项目，点击“setting”\r\n\r\n\r\n然后点击“launch automatic page generator”即可",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
